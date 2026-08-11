@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/lokeshsinghgosain23/Leetcodes-solutions/tree/master/0035-search-insert-position) |
 | [0088-merge-sorted-array](https://github.com/lokeshsinghgosain23/Leetcodes-solutions/tree/master/0088-merge-sorted-array) |
 | [0152-maximum-product-subarray](https://github.com/lokeshsinghgosain23/Leetcodes-solutions/tree/master/0152-maximum-product-subarray) |
 | [0493-reverse-pairs](https://github.com/lokeshsinghgosain23/Leetcodes-solutions/tree/master/0493-reverse-pairs) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/lokeshsinghgosain23/Leetcodes-solutions/tree/master/0035-search-insert-position) |
 | [0493-reverse-pairs](https://github.com/lokeshsinghgosain23/Leetcodes-solutions/tree/master/0493-reverse-pairs) |
 | [0704-binary-search](https://github.com/lokeshsinghgosain23/Leetcodes-solutions/tree/master/0704-binary-search) |
 ## Divide and Conquer
