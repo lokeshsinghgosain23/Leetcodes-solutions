@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/lokeshsinghgosain23/Leetcodes-solutions/tree/master/0412-fizz-buzz) |
 | [2235-add-two-integers](https://github.com/lokeshsinghgosain23/Leetcodes-solutions/tree/master/2235-add-two-integers) |
 ## Array
 |  |
@@ -71,4 +72,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/lokeshsinghgosain23/Leetcodes-solutions/tree/master/0493-reverse-pairs) |
+## String
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/lokeshsinghgosain23/Leetcodes-solutions/tree/master/0412-fizz-buzz) |
+## Simulation
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/lokeshsinghgosain23/Leetcodes-solutions/tree/master/0412-fizz-buzz) |
 <!---LeetCode Topics End-->
