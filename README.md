@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/lokeshsinghgosain23/Leetcodes-solutions/tree/master/0412-fizz-buzz) |
+| [1903-largest-odd-number-in-string](https://github.com/lokeshsinghgosain23/Leetcodes-solutions/tree/master/1903-largest-odd-number-in-string) |
 | [2235-add-two-integers](https://github.com/lokeshsinghgosain23/Leetcodes-solutions/tree/master/2235-add-two-integers) |
 ## Array
 |  |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/lokeshsinghgosain23/Leetcodes-solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0412-fizz-buzz](https://github.com/lokeshsinghgosain23/Leetcodes-solutions/tree/master/0412-fizz-buzz) |
 | [1021-remove-outermost-parentheses](https://github.com/lokeshsinghgosain23/Leetcodes-solutions/tree/master/1021-remove-outermost-parentheses) |
+| [1903-largest-odd-number-in-string](https://github.com/lokeshsinghgosain23/Leetcodes-solutions/tree/master/1903-largest-odd-number-in-string) |
 ## Simulation
 |  |
 | ------- |
@@ -108,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/lokeshsinghgosain23/Leetcodes-solutions/tree/master/0410-split-array-largest-sum) |
+| [1903-largest-odd-number-in-string](https://github.com/lokeshsinghgosain23/Leetcodes-solutions/tree/master/1903-largest-odd-number-in-string) |
 ## Prefix Sum
 |  |
 | ------- |
