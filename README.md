@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/lokeshsinghgosain23/Leetcodes-solutions/tree/master/0014-longest-common-prefix) |
 | [0151-reverse-words-in-a-string](https://github.com/lokeshsinghgosain23/Leetcodes-solutions/tree/master/0151-reverse-words-in-a-string) |
+| [0205-isomorphic-strings](https://github.com/lokeshsinghgosain23/Leetcodes-solutions/tree/master/0205-isomorphic-strings) |
 | [0412-fizz-buzz](https://github.com/lokeshsinghgosain23/Leetcodes-solutions/tree/master/0412-fizz-buzz) |
 | [1021-remove-outermost-parentheses](https://github.com/lokeshsinghgosain23/Leetcodes-solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1903-largest-odd-number-in-string](https://github.com/lokeshsinghgosain23/Leetcodes-solutions/tree/master/1903-largest-odd-number-in-string) |
@@ -135,4 +136,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/lokeshsinghgosain23/Leetcodes-solutions/tree/master/0014-longest-common-prefix) |
+## Hash Table
+|  |
+| ------- |
+| [0205-isomorphic-strings](https://github.com/lokeshsinghgosain23/Leetcodes-solutions/tree/master/0205-isomorphic-strings) |
 <!---LeetCode Topics End-->
